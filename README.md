@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Harsh Kandera
 
-### Full-Stack Developer | DevOps Enthusiast | Problem Solver
+### Full-Stack Developer | DevOps Enthusiast | AI Engineer | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kandera-b22805238/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harsh7877/)
@@ -20,15 +20,16 @@
 const harsh = {
     location: "India 🇮🇳",
     education: "IIIT Design & Manufacturing Kurnool",
-    role: "Full-Stack Developer & Founder",
+    role: "Full-Stack Developer & AI Engineer",
     company: "WebSphere",
-    focus: ["Scalable Web Apps", "Real-time Systems", "DevOps", "Cloud Infrastructure"],
-    currentlyLearning: ["System Design", "AWS", "Microservices Architecture"],
-    funFact: "Built apps serving 104K+ users while studying Mechanical Engineering! 🚗⚙️ → 💻"
+    focus: ["Scalable Web Apps", "Real-time Systems", "DevOps", "Cloud Infrastructure", "Generative AI"],
+    currentlyLearning: ["System Design", "AWS", "Microservices Architecture", "AI Agents"],
+    funFact: "Built apps serving 104K+ users while studying Mechanical Engineering! 🚗⚙️ → 💻🤖"
 };
 ```
 
 - 🔨 Building **production-grade web applications** with modern JavaScript/TypeScript stack
+- 🤖 Developing **AI-powered solutions** with LangChain, RAG, and custom AI agents
 - 🎯 Passionate about **clean architecture**, **performance optimization**, and **scalable systems**
 - 🤝 Leading **Google Developer Student Club (GDSC)** at IIITDM Kurnool
 - 🌱 Currently diving deep into **System Design** and **Cloud-Native Development**
@@ -57,6 +58,7 @@ const harsh = {
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -73,6 +75,15 @@ const harsh = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Generative AI & ML
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/🔍_LangSmith-4A90E2?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00D9FF?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-8B5CF6?style=for-the-badge)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -146,11 +157,18 @@ const harsh = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkandera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- <a href="https://github.com/harshkandera">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshkandera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Harsh's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harshkandera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Harsh's Top Languages"/>
+</a>
 
+<br/><br/> -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkandera&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshkandera&theme=tokyonight&hide_border=true)
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshkandera&theme=tokyonight" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -160,7 +178,7 @@ const harsh = {
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Harsh7877?theme=dark&font=Ubuntu&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/Harsh7877?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
 
 [![LeetCode Badge](https://img.shields.io/badge/Dynamic_Programming-Solved-success?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Harsh7877/)
 [![LeetCode Badge](https://img.shields.io/badge/268+_Problems-Solved-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Harsh7877/)
@@ -181,7 +199,8 @@ class HarshKandera {
         "Object-Oriented Programming",
         "Operating Systems",
         "Computer Networks",
-        "Database Management Systems"
+        "Database Management Systems",
+        "Generative AI & LLM Applications"
     };
     
     string philosophy = "Write code that humans can understand, not just machines!";
@@ -210,10 +229,30 @@ class HarshKandera {
 
 ```javascript
 const currentGoals = {
-    learning: ["System Design at Scale", "AWS Cloud Architecture", "Microservices Patterns"],
-    building: ["Next-gen SaaS Platform", "Developer Tools", "Open Source Contributions"],
-    improving: ["Code Quality", "Performance Optimization", "Best Practices"],
-    exploring: ["Kubernetes", "Serverless Architecture", "Edge Computing"]
+    learning: [
+        "System Design at Scale", 
+        "AWS Cloud Architecture", 
+        "Microservices Patterns",
+        "Advanced RAG Architectures",
+        "Multi-Agent AI Systems"
+    ],
+    building: [
+        "Next-gen SaaS Platform", 
+        "AI-Powered Developer Tools", 
+        "Open Source Contributions"
+    ],
+    improving: [
+        "Code Quality", 
+        "Performance Optimization", 
+        "Best Practices",
+        "AI Agent Orchestration"
+    ],
+    exploring: [
+        "Kubernetes", 
+        "Serverless Architecture", 
+        "Edge Computing",
+        "LangGraph for Complex Workflows"
+    ]
 };
 ```
 
@@ -229,6 +268,7 @@ const currentGoals = {
 - 📚 **Continuous learning** and staying updated with industry trends
 - 🤝 **Mentoring and collaboration** — growing together as a community
 - 🚀 **Shipping fast** while maintaining high quality standards
+- 🤖 **Leveraging AI** to build smarter, more intuitive applications
 
 ---
 
@@ -242,15 +282,11 @@ const currentGoals = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-Harsh7877-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harsh7877/)
 [![WebSphere](https://img.shields.io/badge/WebSphere-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websphere.in/)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ### ⚡ *"Code with purpose. Build with passion. Ship with confidence."* ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshkandera&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=harshkandera&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 **Thanks for visiting! Feel free to explore my repositories and reach out for collaborations! 🚀**
 
